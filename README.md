@@ -8,5 +8,7 @@ In this project we implemented a Multi-cycle CPU as shown in the image below:
 ![alt text](https://github.com/hugo-trivino/computer_organization/blob/master/multi-cycle_cpu.png)
 
 
-This image was obtained from __Patterson, David A., and John L. Hennessy. Computer organization and design MIPS edition: the hardware/software interface. Newnes, 2013.__ .
+This image was obtained from _Patterson, David A., and John L. Hennessy. Computer organization and design MIPS edition: the hardware/software interface. Newnes, 2013._ .
+
+
 If you are interested in the details and tests you can take a look at the report in **Project_Report.pdf** .
